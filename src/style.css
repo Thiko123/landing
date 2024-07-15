@@ -1,8 +1,7 @@
-.images{
-    width: 100%;
-}
+
 h1{
     text-align: center;
     text-overflow: clip;
     color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
