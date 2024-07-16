@@ -14,3 +14,11 @@ h1{
     border-radius: 16px;
     padding: 30px;
 } 
+.search-form-input{
+    background-color: #f9f7fe;
+    border: none;
+    border-radius: 6px;
+    width: 80%;
+    padding: 15px 20px;
+    font-size: 16px;
+}
